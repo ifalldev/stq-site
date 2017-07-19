@@ -11,10 +11,17 @@
 
     <title>STQ - Treinamentos</title>
 
+    <script src="public/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="public/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+
     
     <!-- <link href="public/css/modern-business.css" rel="stylesheet"> -->
 
-    <link href="public/css/style.css" rel="stylesheet" type="text/css">
+    <link href="public/css/fa-bootstrap.css" rel="stylesheet" type="text/css">
+
+    <link rel="icon" type="image/png" href="public/img/icon/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="public/img/icon/favicon-16x16.png" sizes="16x16" />
 
     <!-- <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
 
