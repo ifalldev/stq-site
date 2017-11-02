@@ -38,8 +38,12 @@ header.carousel .carousel-inner {
 header.carousel .fill {
     width: 100%;
     height: 100%;
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
+}
+
+header.carousel .fill.center {
+    background-position: center;
 }
 
 /* 404 Page Styles */
@@ -73,6 +77,9 @@ footer {
     margin: 50px 0;
 }
 
+.fa-stack-2x {
+    color: #6da289;
+}
 /* Responsive Styles */
 
 @media(max-width:991px) {
