@@ -8152,3 +8152,14 @@ small.about-us__bio {
 .padding-top-70 {
   padding-top: 70px;
 }
+
+ul.work__nr-list {
+  list-style: none;
+}
+
+ul.work__nr-list li:before {
+  font-family: FontAwesome;
+  content: "\f046";
+  display: inline-block;
+  padding-right: 10px;
+}
