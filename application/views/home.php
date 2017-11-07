@@ -103,7 +103,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-truck fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Manual do Motorista</h4>
@@ -115,7 +115,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-exclamation-triangle fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">NR's (Normas Regulamentadoras)</h4>
@@ -127,7 +127,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Proteção Ambiental/Coleta Seletiva</h4>
@@ -141,7 +141,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Programa de Reciclagem, Descarte de Resíduos</h4>
@@ -153,7 +153,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-heartbeat fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Saúde Ocupacional</h4>
@@ -165,7 +165,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-hand-paper-o fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Ação Corretiva/Preventiva</h4>
@@ -179,7 +179,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Segurança Patrimonial</h4>
@@ -191,7 +191,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Inspeção Veicular</h4>
@@ -203,7 +203,7 @@
                     <span class="fa-stack fa-2x">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
-                    </span> 
+                    </span>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Produtos Químicos</h4>
@@ -232,4 +232,4 @@
             interval: 3000, //changes the speed
             pause: false
         })
-    </script>        
+    </script>
