@@ -8163,3 +8163,9 @@ ul.work__nr-list li:before {
   display: inline-block;
   padding-right: 10px;
 }
+
+@media (min-width: 991px) {
+  .margin-10-percent-on-md {
+      margin-left: 12%;
+  }
+}

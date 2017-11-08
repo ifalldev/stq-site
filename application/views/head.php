@@ -20,8 +20,7 @@
 
     <link href="public/css/fa-bootstrap.css" rel="stylesheet" type="text/css">
 
-    <link rel="icon" type="image/png" href="public/img/icon/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="public/img/icon/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="public/img/icon/favicon.png" sizes="32x32" />
 
     <!-- <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
 
