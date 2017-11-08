@@ -83,7 +83,7 @@
         </div>
     </div>
     <div class="row text-center">
-        <div class="col-md-3 col-md-offset-3 col-sm-6">
+        <div class="col-md-3 col-sm-6 margin-10-percent-on-md">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
@@ -114,6 +114,23 @@
                     <p>
                         Sistema de Avaliação de Saúde Segurança Meio Ambiente e Qualidade.
                         É uma avaliação que qualifica o transportador para o transporte do produto químico perigoso e não perigoso, embalado, fracionado e a granel.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <span class="fa-stack fa-5x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="panel-body">
+                    <h4>FISPQ's</h4>
+                    <p>
+                        Ficha de Informação de Segurança para Produtos Químico (Medidas de Segurança).
                     </p>
                 </div>
             </div>

@@ -3,14 +3,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <img alt="STQ Treinamentos" src="public/img/logo-brand.png">
+                    <img alt="STQ Treinamentos" src="public/img/logo-brand-footer.png">
                     <ul class="footer__info">
                         <li>(11) 2738-9450</li>
                         <li>sac@stqtreinamentos.com.br</li>
                     </ul>
                 </div>
 
-                <div class="col-md-9">
+                <div class="col-md-12">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
                             <a href="empresa">Empresa</a>
