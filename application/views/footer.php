@@ -21,9 +21,9 @@
                         <li>
                             <a href="gestao-de-qualidade">Gestão de Qualidade</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="contato">Contato</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
